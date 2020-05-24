@@ -4,7 +4,7 @@
 
 ## 美国房地产市场概况 <a id="real_estate"></a>
 
-* [Untitled](real_estate/untitled.md)
+* [房地产市场概况](real_estate/re_intro.md)
 
 ## 美国银行系统简介 <a id="bank"></a>
 
@@ -18,7 +18,7 @@
 * [美国税务结构简介](tax/tax_intro.md)
 * [纳税身份辨析](tax/tax_id.md)
 * [社保账户\(SSN\)简介](tax/tax_ssn.md)
-* [人民币外汇管制简介](tax/rmb.md)
+* [人民币外汇管制简介](tax/ren-min-bi-wai-hui-guan-zhi-jian-jie.md)
 
 ## 区块链简介 <a id="blockchain"></a>
 
