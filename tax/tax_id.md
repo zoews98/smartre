@@ -25,7 +25,9 @@
     只要你满足 [substantial presence test （实际居住测试）](https://www.irs.gov/Individuals/International-Taxpayers/The-Green-Card-Test-and-the-Substantial-Presence-Test)，那么你就是 Resident Alien (RA)，不管你有没有绿卡。实际居住测试分为两条：31天测试和183天测试。你必须**同时满足**31天测试和183天测试才算是满足了实际居住测试。
 
     - 31天测试：本报税年度在美国居住满了31天。
+    
     - 183天测试：
+      
       在过去的3年中（包括本报税年度和之前的两年），按下式计算的日期数达到183天：
 
 > 本报税年度在美国居住的日子 + 1/3 X上一年在美国居住的日子 + 1/6 X上上一年在美国居住的日子
@@ -57,7 +59,7 @@
 
 区分自己是 U.S. Person（包括 Resident Alien (RA)）还是 Non-Resident Alien (NRA) 非常重要。主要原因如下。
 
-1. 税务
+### 税务
 
   - Resident Alien (RA) 在税务方面的待遇和 U.S. Citizen 是完全一样的，美国的个人税表只有给 U.S. Person 的和 Non-Resident Alien (NRA) 的这两类。
 
@@ -67,7 +69,7 @@
 
   - 全球征税：美国的全球征税政策对所有 U.S. Person 都适用，所以理论上来说哪怕你连绿卡都还没有，仅仅是满足了实际居住测试，你也要把包括在中国在内的全球收入都向美国报税交税。这是成为 U.S. Person 的主要坏处之一，所以在美国之外收入很多的人对此要慎重。
     
-    - FICA (Social Security and Medicare Tax)：在美国合法工作的 Non-Resident Alien (NRA) 学生/访问学者，是不需要交 FICA 的。变成 U.S. Person 之后就需要交了（仍然受雇于学校的除外）。这里稍微有点tricky，详情请移步《[被扣了 FICA (Social Security and Medicare Tax) 怎么办](https://www.uscreditcardguide.com/beikoule-fica-social-security-medicare-tax-zenmeban-caiwade-jiaonitui/)》或咨询会计师。
+  - FICA (Social Security and Medicare Tax)：在美国合法工作的 Non-Resident Alien (NRA) 学生/访问学者，是不需要交 FICA 的。变成 U.S. Person 之后就需要交了（仍然受雇于学校的除外）。这里稍微有点tricky，详情请移步《[被扣了 FICA (Social Security and Medicare Tax) 怎么办](https://www.uscreditcardguide.com/beikoule-fica-social-security-medicare-tax-zenmeban-caiwade-jiaonitui/)》或咨询会计师。
     
   - 资本利得税：在美国居住183天以内的（和上面那个实际居住测试的183天测试不一样）Non-Resident Alien (NRA) 的股票收入资本利得税为0，如果变成 U.S. Person 就没有这个优惠政策了。所以有一些大量持有美国股票的国内大佬会数着日子维持NRA身份。但是住满了183天的NRA（例如F1的前五年）资本利得是要交30%的固定税率的，这里稍微有点tricky，详情请移步《[留学生股票收入报税指南](https://www.uscreditcardguide.com/foreigner-investment-tax-guide/)》或咨询会计师。
 
@@ -75,10 +77,10 @@
 
       
 
-2. 银行账户
+### 银行账户
 
-- 在申请Checking/Savings/Brokerage账户的时候，往往网页上会需要你确认你是 U.S. Person：”Under penalties of perjury, I certify that: I am a U.S. citizen or other U.S. person.”。一般来说，因为反洗钱的缘故，银行普遍都会规定 Non-Resident Alien (NRA) 需要去实体店申请，只有 U.S. Person 可以网申。不过现在倒是也有些例外了。
-- 申请银行账户时，U.S. Person 填写的税表是 W-9；而 Non-Resident Alien (NRA) 填写的税表是 W-8BEN。之后在银行赚到的利息也是会收到税表的，U.S. Person 收到的将是 1099-INT；而 NRA 则收到的将是 1042-S。
+  - 在申请Checking/Savings/Brokerage账户的时候，往往网页上会需要你确认你是 U.S. Person：”Under penalties of perjury, I certify that: I am a U.S. citizen or other U.S. person.”。一般来说，因为反洗钱的缘故，银行普遍都会规定 Non-Resident Alien (NRA) 需要去实体店申请，只有 U.S. Person 可以网申。不过现在倒是也有些例外了。
+  - 申请银行账户时，U.S. Person 填写的税表是 W-9；而 Non-Resident Alien (NRA) 填写的税表是 W-8BEN。之后在银行赚到的利息也是会收到税表的，U.S. Person 收到的将是 1099-INT；而 NRA 则收到的将是 1042-S。
 
 
 ## 搞错身份有什么后果？

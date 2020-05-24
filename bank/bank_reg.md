@@ -6,3 +6,8 @@ FDIC \(Federal Deposit Insurance Corporation\) 美国联邦存款保险公司，
 
 目前为止，FDIC拥有上万亿美元的资产，一家美国的银行加入FDIC就代表这家银行有足够的规模并且可以为其客户完全负责。
 
+
+
+## KYC & AML 
+
+https://www.investopedia.com/terms/a/aml.asp
