@@ -23,6 +23,6 @@
 
 ## 区块链简介 <a id="blockchain"></a>
 
-* [什么是区块链和虚拟货币](blockchain/blockchain_intro.md)
+* [区块链和虚拟货币](blockchain/blockchain_intro.md)
 * [OTC交易指南](blockchain/blockchain_otc.md)
 
