@@ -18,7 +18,7 @@
 
 * [美国税务结构简介](tax/tax_intro.md)
 * [纳税身份辨析](tax/tax_id.md)
-* [社保账户\(SSN\)简介](tax/tax_ssn.md)
+* [社保账号\(SSN\)简介](tax/tax_ssn.md)
 * [人民币外汇管制简介](tax/ren-min-bi-wai-hui-guan-zhi-jian-jie.md)
 
 ## 区块链简介 <a id="blockchain"></a>
