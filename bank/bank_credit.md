@@ -4,9 +4,9 @@
 
 ## 信用分数
 
-美国有三大信用报告机构（credit reporting agencies）或称信用局（credit bureaus），分别是：[**Experian**](https://www.dealmoon.com/exec/j?type=shopping-guide&d=762096&url=https%3A%2F%2Fwww.experian.com%2F)、[**Equifax**](https://www.dealmoon.com/exec/j?type=shopping-guide&d=762096&url=http%3A%2F%2Fwww.jdoqocy.com%2Fclick-2165238-10784147-1274716333000%3Furl%3Dhttp%3A%2F%2Fwww.equifax.com%3Fsid%3Dxfzn%26url%3Dhttps%3A%2F%2Fwww.equifax.com%2Fpersonal%2F) 和 [**TransUnion**](https://www.dealmoon.com/exec/j?type=shopping-guide&d=762096&url=https%3A%2F%2Fwww.transunion.com%2F)。
+美国有三大信用报告机构（credit reporting agencies）或称信用局（credit bureaus），分别是：[**Experian**](https://www.experian.com/)、[**Equifax**](https://www.equifax.com/) 和 [**TransUnion**](https://www.transunion.com/)。
 
-![Credit Bureaus](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/233/154/4ce/262e25071d4d5eba424b0d4.jpg_800_0_3_6cc0.jpg)
+![Credit Bureaus信用局](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/233/154/4ce/262e25071d4d5eba424b0d4.jpg_800_0_3_6cc0.jpg)
 
 银行、收债人、政府等都会主动将与个人信用相关的信息，包括信用卡/信贷账户信息、贷款金额、还款记录、欠款记录等等上报到三大信用报告机构；而三大信用局则会将这些信息综合整理成条理分明的信用报告（credit report），日后银行和借贷机构也会通过这些信用报告来评估借贷人的信用度，用来审批贷款等项目。
 
@@ -18,7 +18,7 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 
 相信很多申请过信用卡或者贷款的小伙伴们对FICO信用分数都不陌生，90%的美国大银行及信贷机构都会使用FICO分数作为个人信用分数的评估标准。常见的FICO分数**在300-850之间**，**分数越高代表用户信用越好**，**在信贷机构眼中批出贷款的风险就越低**。所以分数高的（通常740分以上就不错了）申请信用卡或者贷款都更容易获得通过，并且可以拿到更低的利率与更多优惠。
 
-![Screen Shot 2020-05-23 at 20.47.42](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3ebbbn7nj31b80u0txq.jpg)
+![信用分数等级划分](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3ebbbn7nj31b80u0txq.jpg)
 
 * **&lt; 580 = Poor/差**：信用分数远低于美国消费者平均水平，通常申请不到信用卡、贷款，或需要先交押金。
 * **580 - 669 = Fair/一般**：信用分数低于美国平均水平，能申请到贷款但通常利息较高。
@@ -55,7 +55,7 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 * 信贷类型（credit mix）
 * 新开信贷账户（new credit）
 
-![Screen Shot 2020-05-23 at 20.47.55](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3eb6hhzzj312f0u0h0d.jpg)
+![信用分数组成部分](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3eb6hhzzj312f0u0h0d.jpg)
 
 ### 还贷历史记录 - 占35%
 
@@ -69,13 +69,13 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 
 贷款总额在信用积分中**占第二大比重30%**，因为用户已经贷款的总额越高，银行就要考虑继续再借钱出去时用户有没有能力继续支付各种还款款项了。好比一个人原本有能力还上一万块贷款，但他已经借了九千块的账，再去申请一万块贷款额的时候，银行就会认为这笔投资是高风险了。
 
-### \#\#\# 信用历史记录平均长度 - 占15%
+### 信用历史记录平均长度 - 占15%
 
 这一项占分数里15%的比重，考核用户使用信贷有多久，以及各种信贷账户能保持开通多长时间。
 
 一般来说信用历史记录越长越好，所谓路遥知马力，如果信贷账户能长时间都保持良好的记录，就越能证明这个人信用度高。另一方面，信用卡公司如果看到客户有长期保持开通的其他信用卡账户记录，他们当然也会更乐意给这样有高忠诚度的用户批出新的信用卡。
 
-### \#\#\# 信贷类型 - 占10%
+### 信贷类型 - 占10%
 
 信贷账户也有不同类型，最主要的有三种：如信用卡这种每个月不定还款数额的**循环账户（revolving account）**，如车贷房贷这样设定每个月固定还款金额的**分期付款账户（installment account）**，还有就是类似水电费电话费等先使用后付款的**开放式账户（open account）**。
 
@@ -108,7 +108,7 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 
 如果发现报告上的资料有误时，一定要尽快上报相关的信用报告机构要求更正，以免影响了自己的分数。可以选择自己上诉，又或者付费给专门的credit repair/信用修复公司帮忙上诉。
 
-根据美国法律，个人**每12个月可以免费查询自己的信用报告一次**（三大机构的报告各一次），在官网认证网站 [AnnualCreditReport.com](https://www.dealmoon.com/exec/j?type=shopping-guide&d=762096&url=https%3A%2F%2Fwww.annualcreditreport.com%2Findex.action) 上就能申请到三家报告。
+根据美国法律，个人**每12个月可以免费查询自己的信用报告一次**（三大机构的报告各一次），在官网认证网站 [AnnualCreditReport.com](https://www.annualcreditreport.com/index.action) 上就能申请到三家报告。另外的，很多第三方网站也可以通过软查询的方法，推算出您大致的分数，比如[Credit Karma](https://www.creditkarma.com/) 等。
 
 要记住，**查询自己的信用报告或者分数并不会拉低信用分数**。
 
@@ -120,35 +120,24 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 
 ![Credit Utilization &#x8BA1;&#x7B97;&#x65B9;&#x5F0F;](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/909/1f7/b56/bfdd376775bab95baabe070.jpg_800_0_3_98c2.jpg)
 
-删除 Link 注释
-
-（图片转自Upgrade，版权属于原作者）
-
 CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30%以下。假设你只有一张额度为$1000的信用卡，如果你刷了一笔$800的大额购物，想要将CUR降低的话，可以在这个月账单未结余前先还掉$600，这样月尾结余时就只剩下$200的结余金额（balance），信用卡公司会将这个数字上报给信用报告机构，那么在计算信用积分时这个月的CUR就只有20%了。
 
 ### 考虑提前还清分期付款账户
 
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/7df/1c1/1bd/245314932edadd9de3aa2f4.jpg_800_0_3_eb48.jpg)
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/7df/1c1/1bd/245314932edadd9de3aa2f4.jpg_800_0_3_eb48.jpg)
 
-删除 Link 注释
-
-（图片转自Lacking Cents，版权属于原作者）
 
 至于分期付款类型的贷款，**提前还清款项一般来说对提高信用分数并没有帮助**。因为信用分数看重的是**pay as agreed（按约定支付）**，对于分期付款账户来说，只要能保证准时每月还款就是最好的做法。当然，提前还清款项也不会降低信用分数就是了。
 
 一般考虑提早还清贷款的主要原因有两个：第一是可以省下利息，第二就是当你需要再次申请分期付款类型的大笔贷款时，先还清其他分期付款债务、降低贷款总额（每月必须还款的最小金额总和），对申请通过会更有利。
 
-尊重原创版权！ 作者：爱做功课的Rain 链接：[https://www.dealmoon.com/guide/762096](https://www.dealmoon.com/guide/762096) 来源：北美省钱快报 著作权归作者和北美省钱快报，转载请联系北美省钱快报获得授权。
 
 ### 提高信用额度
 
 信用额度也叫信用限额，是指银行授予客户一定金额的信用度，在规定的一段时间内，用户可以循环使用这些金额。信用额度利用率 = 结余金额/信用额度，想要降低CUR数字，除了赶快还款降低结余金额以外，也可以通过提高信用卡的信用额度（Credit Limit Increase）来实现。
 
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8c8/f22/e5c/7ef03fe211704cf3025a4c5.png_800_0_3_5358.png)
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8c8/f22/e5c/7ef03fe211704cf3025a4c5.png_800_0_3_5358.png)
 
-删除 Link 注释
-
-（图片转自MagnifyMoney，版权属于原作者）
 
 但要注意的是，很多信用卡在用户主动要求提高信用额度时会需要hard pull来审批，hard pull 次数多了也会降低信用分数，所以这个方法要慎用。当然，在要求提升额度的时候也可以先询问银行是要hard pull 还是soft pull，得到答案之后再决定要不要申请也是可以的。
 
@@ -156,73 +145,27 @@ CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30
 
 开新的信用卡同样可以增加个人的信用额度，然而申请新信用卡肯定是要hard pull 的，所以不要因为开卡奖励丰富就频繁申请，应该看自己的需要。另外，每开一张新卡，相当于又多了一个只有非常短历史的账户，这会拉低整体信用历史记录长度，也是会拉低信用分数的。
 
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8de/756/088/f3becf728b1abd8ffd6fe19.jpg_800_0_3_c634.jpg)
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8de/756/088/f3becf728b1abd8ffd6fe19.jpg_800_0_3_c634.jpg)
 
-删除 Link 注释
-
-（图片转自deserve，版权属于原作者）
 
 一般来说，在信用分低的时候，一年最多申请一张新信用卡为好；当信用分已经较高，最好相隔六个月以上再开通新的信贷账户。
 
 同理，当因为信用积分不高，申请新信用卡被拒的时候，最好的做法是打客服电话要求reconsider（重新考虑），提交更多的证据（例如存款、收入等）证明自己有能力偿还。而千万不要因为这家被拒就马上去尝试申请另一家的，这样做只会导致越来越多的hard pull，将信用分数拉得更低更容易被拒。
 
-### 考虑 Secured Credit Card
-
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/687/db0/8c1/44ff93489b03a6c8ac9b2c1.jpg_800_0_3_e1c9.jpg)
-
-删除 Link 注释
-
-（图片转自SuperMoney，版权属于原作者）
-
-很多初来美国的小伙伴们根本没有建立过信用记录，信用报告上一片空白，也不可能会有好的信用分数。对于信用新人来说，可以先申请一张secured credit card，也就是向银行先交付一定的押金，信用卡额度就是押金金额，然后每月刷卡再还款，慢慢积累自己的信用历史记录。
-
-### 申请信用卡副卡
-
-如果家里亲人的信用分高，可以考虑让他们将历史比较长或者信用额度比较高的信用卡给你办一张副卡，将你变成那张卡的 authorized user（授权用户）。
-
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/6d2/547/39f/d8ff5eb38d55e354d573729.jpg_800_0_3_02a5.jpg)
-
-删除 Link 注释
-
-（图片转自Pinterest，版权属于原作者）
-
-很多时候信用卡公司也会提交副卡用户的信用报告（但不是100%，开副卡时可以先咨询信用卡公司），这样一来，就相当于在你的报告上，额外多了一段非常好的信用历史以及拉高了整体的信用额度，这对于新人来说也可以快速的提升自己的信用积分。
-
-然而，如果主卡用户在这张卡上有迟交、欠款的记录，这些记录同样也会出现在你的信用报告上，如果这张卡使用度很高、经常被刷爆，这些都会降低你的信用分数。
 
 ### 不要随意取消信用卡账户
 
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d7b/08f/187/572dc6958fb190ba816bfe4.jpg_800_0_3_d8f3.jpg)
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d7b/08f/187/572dc6958fb190ba816bfe4.jpg_800_0_3_d8f3.jpg)
 
-删除 Link 注释
-
-（图片转自Wise Bread，版权属于原作者）
 
 信用记录长度也是衡量信用分数的一个因素，那些最开始申请到的信用卡可能并没有多少优惠，后来也不怎么会用到了，但保留这些账户，就等于有更长的信用历史记录（以及更高的信用额度），有利于提高信用分数。
 
-### 考虑申请汽车贷款或学生贷款
-
-有时候即使有能力能付全款买车，也应该申请小额的汽车贷款（Auto Loan），牺牲一些利息来积累自己的信用记录。而且给了大额down payment（首付）后再申请小额贷款通常都更容易通过，利息也不至于亏太多。
-
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8a3/ffc/5a1/9cff3a2bf51527f4f472b0a.jpg_800_0_3_04ff.jpg)
-
-删除 Link 注释
-
-（图片转自CNBC，版权属于原作者）
-
-信贷类型也会计算在信用分数上，如果信用报告上只有信用卡账户的记录，分数不会太高，也不利于日后申请大笔的房屋贷款。所以当使用了一段时间的信用卡、累积了一定历史以后，可以考虑申请汽车贷款（或者学生贷款/Student Loan）这类分期付款形式的贷款来丰富自己的信用记录。
-
-PS，申请这些分期付款贷款的时候，可以一次过多找几家申请比较利率优惠等，因为申请这类贷款的hard pull 次数在短期内只会计算一次，可以利用这点货比三家为自己省利息。
 
 ### 不要迟交水电费、电话费、医疗费...
 
 不要小看这些一般来说并不会出现在信用报告上的账户，如果发生了欠费的情况，过一两个月这些账目就会被转到追债公司（colletor）手上，然后这个欠债账户（collection account）就会被上报到信用报告上面去，即使还清了欠款，这个曾经欠债的记录也会**保留7年**！！！
 
-![img](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/a72/6e9/0a3/9563f1c59c156af7d288965.jpg_800_0_3_dc8e.jpg)
-
-删除 Link 注释
-
-（图片转自Credit.com，版权属于原作者）
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/a72/6e9/0a3/9563f1c59c156af7d288965.jpg_800_0_3_dc8e.jpg)
 
 也不要以为拖上7年这笔账就可以赖掉也不会再有记录，因为追债公司的坏账过一段时间就会转手给其他追债公司，报告上只会出现越来越多的欠债账户。
 
@@ -230,11 +173,8 @@ PS，申请这些分期付款贷款的时候，可以一次过多找几家申请
 
 ### 如何消除不良信用记录
 
-![undefined](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/406/783/543/393af805231f35ec9ee9f62.jpg_800_0_40_0a97.jpg)
+![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/406/783/543/393af805231f35ec9ee9f62.jpg_800_0_40_0a97.jpg)
 
-删除 Link 注释
-
-图片来自于shutterstock，版权属于原作者
 
 万一发现报告上出现了欠债账户，一般应该按以下几个步骤来删除这个坏记录：
 
@@ -262,6 +202,3 @@ PS，申请这些分期付款贷款的时候，可以一次过多找几家申请
 美国的信用分数主要还是要靠长期积累以及看整体数据的，偶尔开多了卡或者关掉了账户，甚至偶尔一次半次的late payment也都还好，对于长期来说问题并不大。信用卡公司对于30天内的past due甚至不会上报，虽然有罚款但不会影响信用分数。
 
 要特别注意避免的是**charge-off（欠债坏账）**、**colletion account（追债账户）**、**foreclosure（丧失房产赎回权）**和**bankruptcy（破产）**等等这类严重影响信用分的记录。
-
-## 常见美国信用卡介绍
-
