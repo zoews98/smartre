@@ -10,5 +10,7 @@ SSN全称是Social Security Number，中文即为社会安全号码。这是Soci
 
 SSN直接连着美国的信用系统，有了SSN，就可以累积美国的信用分数而更容易申请美国的信用卡，而美国作为一个建立在信用之上的国家，生活的方方面面都需要信用分数，例如申请信用卡，租房，贷款买车买房等。
 
+![SSN](../.gitbook/assets/v2-1f93870892903aa9845ce6404f665e2f_720w.jpg)
+
 SSN作为身份证明连接IRS，雇主会通过SSN向IRS提供你的工资信息。IRS规定成为Tax Purpose的Resident Alien，就会开始收取Social Security Tax，最早从62岁起，可以每月领取一定的收入，类似中国的社保。
 
