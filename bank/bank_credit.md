@@ -6,7 +6,7 @@
 
 美国有三大信用报告机构（credit reporting agencies）或称信用局（credit bureaus），分别是：[**Experian**](https://www.experian.com/)、[**Equifax**](https://www.equifax.com/) 和 [**TransUnion**](https://www.transunion.com/)。
 
-![Credit Bureaus信用局](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/233/154/4ce/262e25071d4d5eba424b0d4.jpg_800_0_3_6cc0.jpg)
+![Credit Bureaus&#x4FE1;&#x7528;&#x5C40;](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/233/154/4ce/262e25071d4d5eba424b0d4.jpg_800_0_3_6cc0.jpg)
 
 银行、收债人、政府等都会主动将与个人信用相关的信息，包括信用卡/信贷账户信息、贷款金额、还款记录、欠款记录等等上报到三大信用报告机构；而三大信用局则会将这些信息综合整理成条理分明的信用报告（credit report），日后银行和借贷机构也会通过这些信用报告来评估借贷人的信用度，用来审批贷款等项目。
 
@@ -18,7 +18,7 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 
 相信很多申请过信用卡或者贷款的小伙伴们对FICO信用分数都不陌生，90%的美国大银行及信贷机构都会使用FICO分数作为个人信用分数的评估标准。常见的FICO分数**在300-850之间**，**分数越高代表用户信用越好**，**在信贷机构眼中批出贷款的风险就越低**。所以分数高的（通常740分以上就不错了）申请信用卡或者贷款都更容易获得通过，并且可以拿到更低的利率与更多优惠。
 
-![信用分数等级划分](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3ebbbn7nj31b80u0txq.jpg)
+![&#x4FE1;&#x7528;&#x5206;&#x6570;&#x7B49;&#x7EA7;&#x5212;&#x5206;](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3ebbbn7nj31b80u0txq.jpg)
 
 * **&lt; 580 = Poor/差**：信用分数远低于美国消费者平均水平，通常申请不到信用卡、贷款，或需要先交押金。
 * **580 - 669 = Fair/一般**：信用分数低于美国平均水平，能申请到贷款但通常利息较高。
@@ -55,7 +55,7 @@ Experian、Equifax 和 TransUnion三家信用报告机构都是**独立运营的
 * 信贷类型（credit mix）
 * 新开信贷账户（new credit）
 
-![信用分数组成部分](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3eb6hhzzj312f0u0h0d.jpg)
+![&#x4FE1;&#x7528;&#x5206;&#x6570;&#x7EC4;&#x6210;&#x90E8;&#x5206;](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf3eb6hhzzj312f0u0h0d.jpg)
 
 ### 还贷历史记录 - 占35%
 
@@ -126,18 +126,15 @@ CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30
 
 ![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/7df/1c1/1bd/245314932edadd9de3aa2f4.jpg_800_0_3_eb48.jpg)
 
-
 至于分期付款类型的贷款，**提前还清款项一般来说对提高信用分数并没有帮助**。因为信用分数看重的是**pay as agreed（按约定支付）**，对于分期付款账户来说，只要能保证准时每月还款就是最好的做法。当然，提前还清款项也不会降低信用分数就是了。
 
 一般考虑提早还清贷款的主要原因有两个：第一是可以省下利息，第二就是当你需要再次申请分期付款类型的大笔贷款时，先还清其他分期付款债务、降低贷款总额（每月必须还款的最小金额总和），对申请通过会更有利。
-
 
 ### 提高信用额度
 
 信用额度也叫信用限额，是指银行授予客户一定金额的信用度，在规定的一段时间内，用户可以循环使用这些金额。信用额度利用率 = 结余金额/信用额度，想要降低CUR数字，除了赶快还款降低结余金额以外，也可以通过提高信用卡的信用额度（Credit Limit Increase）来实现。
 
 ![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8c8/f22/e5c/7ef03fe211704cf3025a4c5.png_800_0_3_5358.png)
-
 
 但要注意的是，很多信用卡在用户主动要求提高信用额度时会需要hard pull来审批，hard pull 次数多了也会降低信用分数，所以这个方法要慎用。当然，在要求提升额度的时候也可以先询问银行是要hard pull 还是soft pull，得到答案之后再决定要不要申请也是可以的。
 
@@ -147,19 +144,15 @@ CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30
 
 ![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/8de/756/088/f3becf728b1abd8ffd6fe19.jpg_800_0_3_c634.jpg)
 
-
 一般来说，在信用分低的时候，一年最多申请一张新信用卡为好；当信用分已经较高，最好相隔六个月以上再开通新的信贷账户。
 
 同理，当因为信用积分不高，申请新信用卡被拒的时候，最好的做法是打客服电话要求reconsider（重新考虑），提交更多的证据（例如存款、收入等）证明自己有能力偿还。而千万不要因为这家被拒就马上去尝试申请另一家的，这样做只会导致越来越多的hard pull，将信用分数拉得更低更容易被拒。
-
 
 ### 不要随意取消信用卡账户
 
 ![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/d7b/08f/187/572dc6958fb190ba816bfe4.jpg_800_0_3_d8f3.jpg)
 
-
 信用记录长度也是衡量信用分数的一个因素，那些最开始申请到的信用卡可能并没有多少优惠，后来也不怎么会用到了，但保留这些账户，就等于有更长的信用历史记录（以及更高的信用额度），有利于提高信用分数。
-
 
 ### 不要迟交水电费、电话费、医疗费...
 
@@ -174,7 +167,6 @@ CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30
 ### 如何消除不良信用记录
 
 ![](https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/406/783/543/393af805231f35ec9ee9f62.jpg_800_0_40_0a97.jpg)
-
 
 万一发现报告上出现了欠债账户，一般应该按以下几个步骤来删除这个坏记录：
 
@@ -202,3 +194,4 @@ CUR越低，信用分数就越高，大多数专家都会建议将CUR控制在30
 美国的信用分数主要还是要靠长期积累以及看整体数据的，偶尔开多了卡或者关掉了账户，甚至偶尔一次半次的late payment也都还好，对于长期来说问题并不大。信用卡公司对于30天内的past due甚至不会上报，虽然有罚款但不会影响信用分数。
 
 要特别注意避免的是**charge-off（欠债坏账）**、**colletion account（追债账户）**、**foreclosure（丧失房产赎回权）**和**bankruptcy（破产）**等等这类严重影响信用分的记录。
+
