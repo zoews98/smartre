@@ -8,5 +8,9 @@ FDIC \(Federal Deposit Insurance Corporation\) 美国联邦存款保险公司，
 
 ## KYC & AML
 
-[https://www.investopedia.com/terms/a/aml.asp](https://www.investopedia.com/terms/a/aml.asp)
+{% embed url="https://www.investopedia.com/terms/a/aml.asp" %}
+
+{% embed url="https://mp.weixin.qq.com/s/i7ilsnj\_5KJ\_2BQ9Wyr\_5g" %}
+
+
 
